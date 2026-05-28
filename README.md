@@ -3,7 +3,7 @@
 <br>
 <div markdown="1">
    <a href="https://www.rapidproxy.io/?ref=spi">
-     <img src="./imgs/Rapidproxy.png" alt="Rapidproxy" width="650"/>
+     <img src="./imgs/Rapidproxy.png" alt="Rapidproxy" width="500"/>
    </a>
 </div>
 
