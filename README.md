@@ -1,5 +1,16 @@
 # wechat_spider 微信爬虫
 
+<br>
+<div markdown="1">
+   <a href="https://www.rapidproxy.io/?ref=spi">
+     <img src="./imgs/Rapidproxy.png" alt="Rapidproxy" width="650"/>
+   </a>
+</div>
+
+> [Rapidproxy](https://www.rapidproxy.io/?ref=spi)——面向开发者的数据采集代理网络。覆盖全球 90M+ 真实住宅 IP，提供智能轮换、高匿名性、无限并发连接与永久有效流量，帮助开发者稳定应对 IP 封锁、速率限制与反爬机制。
+
+<br>
+
 基于 Node.js 的微信爬虫，通过中间人代理的原理，批量获取微信文章数据，包括阅读量、点赞量、在看数、评论和文章正文等数据。
 
 使用代理模块 AnyProxy。代码已支持 AnyProxy 4 版本。
